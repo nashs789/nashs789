@@ -3,12 +3,9 @@
 <span><img src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>
 <span><img src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/></span>
 <span><img src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/></span>
+<span><img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/></span>
+<span><img src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/></span>
 
-
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
-
-<img alt="Java" src ="https://img.shields.io/badge/Java-89a5ea.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-<img alt="Java" src ="https://img.shields.io/badge/Java-89a5ea.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 
 
 <!--
