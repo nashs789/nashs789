@@ -5,7 +5,8 @@
 <span><img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-66FF66.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/></span>
 
 
-<img alt="Java" src ="https://img.shields.io/badge/Java-89a5ea.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+
 <img alt="Java" src ="https://img.shields.io/badge/Java-89a5ea.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 <img alt="Java" src ="https://img.shields.io/badge/Java-89a5ea.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 
