@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=Bok's&fontSize=65&desc=Do%20The%20Best%20All%20The%20Time&animation=fadeIn)
 
 
-### [🧑‍💻Tech Stack👨‍💻]
+### [🧑‍💻Tech Stack]
 <span><img src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>
 <span><img src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/></span>
 <span><img src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/></span>
@@ -15,7 +15,12 @@
 <span><img src ="https://img.shields.io/badge/Gradle-02303A.svg?&style=for-the-badge&logo=Gradle&logoColor=white"/></span>
 
 
+### [📬Visitor]
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnashs789%2Fhit-counter&count_bg=%239CFF51&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+###[]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nashs789)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 - 공부 했었던 기술 스택
 - email, notion 같은 연락처 뱃지
