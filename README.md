@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=Bok's&fontSize=65&desc=Do%20The%20Best%20All%20The%20Time&animation=fadeIn)
+
 <!--
 **nashs789/nashs789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
