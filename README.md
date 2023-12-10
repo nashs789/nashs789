@@ -16,11 +16,11 @@
 <span><img src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></span>
 <span><img src ="https://img.shields.io/badge/Subversion-809CC9.svg?&style=for-the-badge&logo=Subversion&logoColor=white"/></span>
 
-### [ Langugae ]
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nashs789&show_icons=true&locale=en&layout=compact"/>
-
 ### [ 📬 Visitor ]
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnashs789%2Fhit-counter&count_bg=%239CFF51&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+### [ Langugae ]
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nashs789&show_icons=true&locale=en&layout=compact"/>
 
 ### [ 📈 Status ]
 
