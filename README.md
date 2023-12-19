@@ -36,7 +36,10 @@
 <span><img src ="https://img.shields.io/badge/Subversion-809CC9.svg?&style=for-the-badge&logo=Subversion&logoColor=white"/></span>
 <span><img src ="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/></span>
 <span><img src ="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></span>
-<span><img src ="https://img.shields.io/badge/redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white"/></span>
+<span><img src ="https://img.shields.io/badge/redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white"/></span></br>
+<span><img src ="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></span>
+<span><img src ="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/></span>
+
 
 
 # [ 📈 Status ]
