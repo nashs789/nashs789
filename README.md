@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=Bok's&fontSize=65&desc=Do%20The%20Best%20All%20The%20Time&animation=fadeIn)
-
-
 # [ 🧑‍💻 Tech Stack ]
 ### [ 🛠️ Work ]
 <span><img src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>
