@@ -1,5 +1,5 @@
 # [ 🧑‍💻 Tech Stack ]
-### [ 🛠️ Work ]
+## [ 🛠️ Work ]
 <span><img src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span>
 <span><img src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/></span>
 <span><img src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/></span>
@@ -12,7 +12,7 @@
 <span><img src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/></span></br>
 <span><img src ="https://img.shields.io/badge/Gradle-02303A.svg?&style=for-the-badge&logo=Gradle&logoColor=white"/></span>
 
-### [ 🔧 Project ]
+## [ 🔧 Project ]
 <span><img src ="https://img.shields.io/badge/typeform-262627.svg?&style=for-the-badge&logo=typeform&logoColor=white"/></span>
 <span><img src ="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/></span>
 <span><img src ="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></span>
@@ -25,10 +25,10 @@
 <span><img src ="https://img.shields.io/badge/swagger-85EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=white"/></span></br>
 <span><img src ="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/></span>
 
-### [ 🪛 Study ]
+## [ 🪛 Study ]
 <span><img src ="https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/></span>
 
-### [ 🤝 collaborate ]
+## [ 🤝 collaborate ]
 <span><img src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></span>
 <span><img src ="https://img.shields.io/badge/Subversion-809CC9.svg?&style=for-the-badge&logo=Subversion&logoColor=white"/></span>
 <span><img src ="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/></span>
