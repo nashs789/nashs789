@@ -1,5 +1,9 @@
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hello!+You+Are+Welcom+To+My+Profile;My+Name+Is+Lee+In+Bok;I+Am+A+Junior+Backend+Developer;Feel+Free+To+Contact+Me+↓↓↓)](https://git.io/typing-svg)
 
+## 📩 Reach Me
+[![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](nashs789@gmail.com)
+[<img src="https://img.shields.io/badge/tistory-FF6633?style=for-the-badge&logo=tistory&logoColor=white"/>](https://nashs789.tistory.com/)
+
 ## 🧑‍💻 Tech Stack
 <p align="center">
   <b>Language: </b>
@@ -28,7 +32,7 @@
   </a>
 </p>
 
-# [ 📈 Status ]
+## 📈 Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nashs789\&show_icons=true\&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashs789&layout=compact&hide=css,html,cpp,perl&size_weight=0&count_weight=1)
@@ -53,6 +57,6 @@
 </td>
 </tr></table>
 
-# [ 🏆 BaekJoon ]
+## 🏆 BaekJoon
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nashs789)](https://solved.ac/nashs789/)
