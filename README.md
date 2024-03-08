@@ -1,4 +1,4 @@
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hello!+You+Are+Welcom+To+My+Profile;My+Name+Is+Lee+In+Bok;I+Am+A+Junior+Backend+Developer;Feel+Free+To+Contact+Me+↓↓↓)](https://git.io/typing-svg)
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hello!+You+Are+Welcom+To+My+Profile;My+Name+Is+Lee+In+Bok;I+Am+A+Junior+Backend+Developer;Passionate+Enthusiastic+Ambivert;Those+Words+That+Means+me;Feel+Free+To+Contact+Me+↓↓↓)](https://git.io/typing-svg)
 
 ## 📩 Reach Me
 [![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](nashs789@gmail.com)
