@@ -1,8 +1,19 @@
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hello!+You're+Welcom+To+My+Profile;My+Name+Is+Lee+In+Bok+From+Korea;I+Am+A+Junior+Backend+Developer;Passionate+Enthusiastic+Ambivert;Those+Words+That+Means+me;Feel+Free+To+Contact+Me+↓↓↓)](https://git.io/typing-svg)
 
+</br>
+
+## 👋 Current Status
+I have recently become interested in <b>Linux, Docker</b> and studying <b>JPA, QueryDSL</b>.  
+If I can make time later, I plan to study what I'm interested in.
+
+Currently, I need to become familiar with Java, JSP, Jquery, Spring boot, etc... because of work, so I'm considering my plan. 
+  
+It's nice to see you here and you are welcome again.
+
 ## 📩 Reach Me
 [![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](nashs789@gmail.com)
 [<img src="https://img.shields.io/badge/tistory-FF6633?style=for-the-badge&logo=tistory&logoColor=white"/>](https://nashs789.tistory.com/)
+</br>
 
 ## 🧑‍💻 Tech Stack
 <p align="center">
