@@ -7,7 +7,9 @@ I have recently become interested in <b>Linux, Docker</b> and studying <b>JPA, Q
 If I can make time later, I plan to study what I'm interested in.
 
 Currently, I need to become familiar with Java, JSP, Jquery, Spring boot, etc... because of work, so I'm considering my plan. 
-  
+
+I'm a mutual follower :)
+
 It's nice to see you here and you are welcome again.
 
 </br>
