@@ -40,6 +40,12 @@ It's nice to see you here and you are welcome again.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,idea,discord,eclipse,figma,notion,postman,vscode" />
   </a>
+  </br>
+  <b>etc...: </b>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jquery,githubactions,jenkins" />
+  </a>
+  </br>
 </p>
 
 ## 📈 Status
