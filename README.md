@@ -3,7 +3,7 @@
 </br>
 
 ## 👋 Current Status
-I have recently become interested in <b>Linux, Docker</b> and studying <b>JPA, QueryDSL</b>.  
+I have recently become interested in <b>AWS, Linux, Docker</b> and studying <b>JPA, QueryDSL</b>.  
 If I can make time later, I plan to study what I'm interested in.
 
 Currently, I need to become familiar with Java, JSP, Jquery, Spring boot, etc... because of work, so I'm considering my plan. 
