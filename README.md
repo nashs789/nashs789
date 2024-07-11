@@ -76,3 +76,7 @@ It's nice to see you here and you are welcome again.
 [![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](nashs789@gmail.com)
 [<img src="https://img.shields.io/badge/tistory-FF6633?style=for-the-badge&logo=tistory&logoColor=white"/>](https://nashs789.tistory.com/)
 </br>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/nashs789" width="1000" height="300"/>
+</a>
