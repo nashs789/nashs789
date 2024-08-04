@@ -72,6 +72,9 @@ It's nice to see you here and you are welcome again.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nashs789)](https://solved.ac/nashs789/)
 
+## 🏆 LeetCode
+![Leetcode Stats](https://leetcard.jacoblin.cool/nashs789?ext=heatmap)
+
 ## 📩 Reach Me
 [![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](nashs789@gmail.com)
 [<img src="https://img.shields.io/badge/tistory-FF6633?style=for-the-badge&logo=tistory&logoColor=white"/>](https://nashs789.tistory.com/)
